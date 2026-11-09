@@ -201,3 +201,6 @@ This repository serves as the official landing page for Extinction Eclipse. The 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Extinction Eclipse today!**
+
+---
+**Last updated:** 2026-11-09 07:22:25 UTC
